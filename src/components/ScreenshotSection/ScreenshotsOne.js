@@ -10,21 +10,43 @@ const initData = {
 }
 
 const data = [
+    
     {
-        image: "/img/screenshot_1.jpg"
+        image: "/img/img9.png"
     },
     {
-        image: "/img/screenshot_2.jpg"
+        image: "/img/img7.jpg"
     },
     {
-        image: "/img/screenshot_3.jpg"
+        image: "/img/img6.jpg"
     },
     {
-        image: "/img/screenshot_4.jpg"
+        image: "/img/img5.jpg"
     },
     {
-        image: "/img/screenshot_5.jpg"
-    }
+        image: "/img/img1.jpg"
+    },
+    {
+        image: "/img/img2.jpg"
+    },
+    {
+        image: "/img/img4.jpg"
+    },
+    
+    {
+        image: "/img/img8.jpg"
+    },
+   
+   
+   
+  
+   
+    {
+        image: "/img/img3.jpg"
+    },
+    
+    
+   
 ]
 
 class ScreenshotSection extends Component {

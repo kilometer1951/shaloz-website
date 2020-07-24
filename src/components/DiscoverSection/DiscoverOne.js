@@ -31,7 +31,7 @@ class DiscoverSection extends Component {
             <div className="col-12 col-lg-6 order-2 order-lg-1">
               {/* Discover Thumb */}
               <div className="service-thumb discover-thumb mx-auto pt-5 pt-lg-0">
-                <img src={db.themeOneDiscoverSection.thumbOne} alt="" />
+                <img src={db.themeOneDiscoverSection.thumbOne} alt="" style={{width:400}}/>
               </div>
             </div>
             <div className="col-12 col-lg-6 order-1 order-lg-2">

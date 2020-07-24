@@ -6,7 +6,7 @@ const initData = {
     "Theres's no shaloz warehouse - just millions of people selling the things they love. We make the whole process easy, helping you connect directly with makers to find something extraordinary.",
   playImg: "/img/google-play.png",
   appleImg: "/img/app-store.png",
-  heroThumb: "/img/welcome_mockup.png",
+  heroThumb: "/img/sc1.png",
 };
 
 class HeroSection extends Component {
