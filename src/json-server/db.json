@@ -101,11 +101,11 @@
         "headingSeven": "Stay connected with all of your friends",
         "buttonText": "Learn More",
         "thumbOne": "/img/sc2.png",
-        "thumbTwo": "/img/service_thumb_2.png",
-        "thumbThree": "/img/welcome_mockup_2.png",
-        "thumbFour": "/img/discover_thumb.png",
-        "thumbFive": "/img/service_thumb_1.png",
-        "thumbSix": "/img/discover_thumb_2.png",
+        "thumbTwo": "/img/sc2.png",
+        "thumbThree": "/img/sc2.png",
+        "thumbFour": "/img/sc2.png",
+        "thumbFive": "/img/sc2.png",
+        "thumbSix": "/img/sc2.png",
         "serviceData": [
             {
                 "id": 1,

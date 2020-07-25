@@ -61,7 +61,7 @@ class ServiceSection extends Component {
                 </div>
               </div>
             </div>
-            <div className="col-12 col-lg-4 order-1 order-lg-2 d-none d-lg-block">
+            <div className="col-12 col-lg-4 order-1 order-lg-2  d-lg-block">
               {/* Service Thumb */}
               <div className="service-thumb mx-auto">
                 <img src={db.themeOneServiceSection.thumbOne} alt="" />
