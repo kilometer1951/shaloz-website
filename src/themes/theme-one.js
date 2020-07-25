@@ -32,7 +32,6 @@ class ThemeOne extends Component {
                     <ServiceSection />
                     <DiscoverSection />
                     <Download />
-                    <ScreenshotSection />
                     <Subscribe />
                     <ContactSection />
                     <FooterSection />
