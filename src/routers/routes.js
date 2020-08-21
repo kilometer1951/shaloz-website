@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 // importing all the themes
 import ThemeOne from "../themes/theme-one";
 import ThemeTwo from "../themes/theme-two";
-import ThemeThree from '../themes/theme-three';
+import ThemeThree from "../themes/theme-three";
 import ThemeFour from "../themes/theme-four";
 import ThemeFive from "../themes/theme-five";
 import ThemeSix from "../themes/theme-six";
@@ -26,6 +26,7 @@ import Forgot from "../components/Accounts/Forgot";
 import Faq from "../components/FaqSection/Faq";
 import ErrorPage from "../components/ErrorPage/404";
 import ContactPage from "../components/ContactSection/ContactPage";
+//import ComingSoon from "../components/ComingSoon/ComingSoon";
 
 class MyRouts extends React.Component {
   render() {
@@ -33,7 +34,7 @@ class MyRouts extends React.Component {
       <div>
         <Router>
           <Switch>
-            <Route exact path="/" component={ThemeOne} />
+            <Route exact path="/" component={ComingSoon} />
             <Route path="/theme-two" component={ThemeTwo} />
             <Route path="/theme-three" component={ThemeThree} />
             <Route path="/theme-four" component={ThemeFour} />
@@ -43,8 +44,14 @@ class MyRouts extends React.Component {
             <Route path="/blog-three-column" component={BlogThreeColumn} />
             <Route path="/blog-left-sidebar" component={BlogLeftSidebar} />
             <Route path="/blog-right-sidebar" component={BlogRightSidebar} />
-            <Route path="/blog-details-left-sidebar" component={BlogDetailsLeftSidebar} />
-            <Route path="/blog-details-right-sidebar" component={BlogDetailsRightSidebar} />
+            <Route
+              path="/blog-details-left-sidebar"
+              component={BlogDetailsLeftSidebar}
+            />
+            <Route
+              path="/blog-details-right-sidebar"
+              component={BlogDetailsRightSidebar}
+            />
             <Route path="/reviews" component={Reviews} />
             <Route path="/pricing" component={Pricing} />
             <Route path="/download-page" component={DownloadPage} />
@@ -64,3 +71,5 @@ class MyRouts extends React.Component {
   }
 }
 export default MyRouts;
+
+//            <Route exact path="/" component={ThemeOne} />
