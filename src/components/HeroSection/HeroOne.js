@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 const initData = {
-  heading: "Coming Soon! The world's most imaginative marketplace",
+  heading: "The world's most imaginative marketplace",
   content:
     "Theres's no shaloz warehouse - just millions of people selling the things they love. We make the whole process easy, helping you connect directly with makers to find something extraordinary.",
   playImg: "/img/google-play.png",

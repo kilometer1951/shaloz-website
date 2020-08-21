@@ -1,10 +1,12 @@
 import React, { Component } from "react";
 import Header from "../HeaderSection/Header";
+import FeatureSection from "../Features/FeatureOne";
+import Subscribe from "../SubscribeSection/Subscribe";
 
 const initData = {
   heading: "We are coming soon!",
   content:
-    "The world's most imaginative marketplace. Shaloz is an online marketplace, where people come together to sell and buy products and services. We have millions of one-of-a-kind items and services, so you can find whatever you need. Your one stop marketplace for everything products and services. No monthly subscription",
+    "The world's most imaginative marketplace. Shaloz is an online marketplace, where people come together to sell and buy products and services. We have millions of one-of-a-kind products and services, so you can find whatever you need. Your one stop marketplace for everything products and services. Looking for a home decor or are you looking for home supplies? Shaloz has it all. No monthly subscription",
   btnText: "Notify",
 };
 
@@ -57,6 +59,8 @@ class ComingSoon extends Component {
               </div>
             </div>
           </section>
+          <FeatureSection />
+          <Subscribe />
         </div>
       </div>
     );
