@@ -2,11 +2,12 @@ import React, { Component } from "react";
 import Header from "../HeaderSection/Header";
 import FeatureSection from "../Features/FeatureOne";
 import Subscribe from "../SubscribeSection/Subscribe";
+import FaqSection from "../FaqSection/FaqOne";
 
 const initData = {
   heading: "We are coming soon!",
   content:
-    "The world's most imaginative marketplace. Shaloz is an online marketplace, where people come together to sell and buy products and services. We have millions of one-of-a-kind products and services, so you can find whatever you need. Your one stop marketplace for everything products and services. Looking for a professional home decorator or are you looking for home supplies? Shaloz has it all. No monthly subscription",
+    "Shaloz, the world's most imaginative marketplace. Shaloz is an online marketplace where independent people come together to buy products and book professional services. We have a host of unique products and services, so you can find whatever you need. Looking for a professional home decorator or are you looking for home supplies? if your answer is yes, then Shaloz has it all.",
   btnText: "Notify",
 };
 
@@ -122,6 +123,7 @@ class ComingSoon extends Component {
             </div>
           </section>
           <FeatureSection />
+          <FaqSection />
           <Subscribe />
         </div>
       </div>

@@ -6,7 +6,7 @@
     "headingTwo": "Explore Premium Features",
     "headingThree": "Why Small Business Owner's Loves Shaloz",
     "headingFour": "Why choose Shaloz?",
-    "headingText": "Shaloz is an all in one marketplace where people come to buy products and services from independent makers, creators and professionals. Looking for a professional home decorator or are you looking for home supplies? Shaloz has it all.",
+    "headingText": "Shaloz is the only platform that has it all, products and services in one app. With Shaloz, sellers get to build their stores and sell products and offer professional services at no monthly cost. Buyers get shop for products and book for professional services in the same app.",
     "headingTexttwo": "Shaloz is an online marketplace, where people come together to sell, buy and collect unique items. We have millions of one-of-a-kind items, so you can find whatever you need. Manage your store on your mobile device.",
     "featureThumb": "/img/features_thumb.png",
     "featureData": [
@@ -14,21 +14,21 @@
         "id": 1,
         "image": "fal fa-shopping-cart",
         "title": "Buy",
-        "text": "Buy products or services directly from someone who put their heart and soul into making a difference.",
+        "text": "Buy products or book for professional services directly from someone who put their heart and soul into making a difference.",
         "styles": { "color": "#4285F4", "fontSize": 35 }
       },
       {
         "id": 2,
         "image": "fas fa-money-bill-alt",
         "title": "Sell",
-        "text": "Simple, transparent, no additional monthly fees, Secure transactions and Automatic deposits.",
+        "text": "Sell products and offer professional services all in the same place. Its simple, transparent, no additional monthly fees, Secure transactions and Automatic deposits.",
         "styles": { "color": "#FF8800", "fontSize": 35 }
       },
       {
         "id": 3,
         "image": "fad fa-credit-card-front",
         "title": "Secure Payment",
-        "text": "We use best-in-class technology to protect your transactions and we are always here for you.",
+        "text": "Pay through the app. We use best-in-class technology to protect your transactions and we are always here for you.",
         "styles": { "color": "#9933CC", "fontSize": 35 }
       }
     ],
