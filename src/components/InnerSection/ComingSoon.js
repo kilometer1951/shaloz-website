@@ -123,7 +123,7 @@ class ComingSoon extends Component {
             </div>
           </section>
           <FeatureSection />
-          <FaqSection />
+
           <Subscribe />
         </div>
       </div>
