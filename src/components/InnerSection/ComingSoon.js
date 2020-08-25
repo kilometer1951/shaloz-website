@@ -7,7 +7,7 @@ import FaqSection from "../FaqSection/FaqOne";
 const initData = {
   heading: "We are coming soon!",
   content:
-    "Shaloz, the world's most imaginative marketplace. Shaloz is an online marketplace where independent people come together to buy products and book professional services. We have a host of unique products and services, so you can find whatever you need. Looking for a professional home decorator or are you looking for home supplies? if your answer is yes, then Shaloz has it all.",
+    "Shaloz, the world's most imaginative marketplace. Shaloz is an online marketplace where people come together to buy products and book professional services. We have a host of unique products and services, so you can find whatever you need. Looking for a professional home decorator or are you looking for home supplies? if your answer is yes, then Shaloz has it all.",
   btnText: "Notify",
 };
 
