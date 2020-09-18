@@ -34,7 +34,7 @@ class MyRouts extends React.Component {
       <div>
         <Router>
           <Switch>
-            <Route exact path="/" component={ComingSoon} />
+            <Route exact path="/" component={ThemeOne} />
           </Switch>
         </Router>
       </div>
@@ -43,35 +43,32 @@ class MyRouts extends React.Component {
 }
 export default MyRouts;
 
-//            <Route exact path="/" component={ThemeOne} />
-{
-  /* <Route path="/theme-two" component={ThemeTwo} />
-<Route path="/theme-three" component={ThemeThree} />
-<Route path="/theme-four" component={ThemeFour} />
-<Route path="/theme-five" component={ThemeFive} />
-<Route path="/theme-six" component={ThemeSix} />
-<Route path="/blog-two-column" component={BlogTwoColumn} />
-<Route path="/blog-three-column" component={BlogThreeColumn} />
-<Route path="/blog-left-sidebar" component={BlogLeftSidebar} />
-<Route path="/blog-right-sidebar" component={BlogRightSidebar} />
-<Route
-  path="/blog-details-left-sidebar"
-  component={BlogDetailsLeftSidebar}
-/>
-<Route
-  path="/blog-details-right-sidebar"
-  component={BlogDetailsRightSidebar}
-/>
-<Route path="/reviews" component={Reviews} />
-<Route path="/pricing" component={Pricing} />
-<Route path="/download-page" component={DownloadPage} />
-<Route path="/subscribe-page" component={SubscribePage} />
-<Route path="/thank-you" component={ThankYou} />
-<Route path="/coming-soon" component={ComingSoon} />
-<Route path="/login" component={Login} />
-<Route path="/signup" component={Signup} />
-<Route path="/forgot" component={Forgot} />
-<Route path="/faq" component={Faq} />
-<Route path="/error-page" component={ErrorPage} />
-<Route path="/contact-page" component={ContactPage} /> */
-}
+// <Route path="/theme-two" component={ThemeTwo} />
+// <Route path="/theme-three" component={ThemeThree} />
+// <Route path="/theme-four" component={ThemeFour} />
+// <Route path="/theme-five" component={ThemeFive} />
+// <Route path="/theme-six" component={ThemeSix} />
+// <Route path="/blog-two-column" component={BlogTwoColumn} />
+// <Route path="/blog-three-column" component={BlogThreeColumn} />
+// <Route path="/blog-left-sidebar" component={BlogLeftSidebar} />
+// <Route path="/blog-right-sidebar" component={BlogRightSidebar} />
+// <Route
+// path="/blog-details-left-sidebar"
+// component={BlogDetailsLeftSidebar}
+// />
+// <Route
+// path="/blog-details-right-sidebar"
+// component={BlogDetailsRightSidebar}
+// />
+// <Route path="/reviews" component={Reviews} />
+// <Route path="/pricing" component={Pricing} />
+// <Route path="/download-page" component={DownloadPage} />
+// <Route path="/subscribe-page" component={SubscribePage} />
+// <Route path="/thank-you" component={ThankYou} />
+// <Route path="/coming-soon" component={ComingSoon} />
+// <Route path="/login" component={Login} />
+// <Route path="/signup" component={Signup} />
+// <Route path="/forgot" component={Forgot} />
+// <Route path="/faq" component={Faq} />
+// <Route path="/error-page" component={ErrorPage} />
+// <Route path="/contact-page" component={ContactPage} />

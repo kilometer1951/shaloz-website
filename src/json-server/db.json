@@ -6,7 +6,7 @@
     "headingTwo": "Explore Premium Features",
     "headingThree": "Why Small Business Owner's Loves Shaloz",
     "headingFour": "Why choose Shaloz?",
-    "headingText": "Shaloz is the only platform that allows you earn and cash-out points while you shop for the things you love. With Shaloz, sellers get to spend less time managing their shop and more time on the fun stuff. Buyers get to earn and cash out points while they shop for the things they love.",
+    "headingText": "Shaloz is the only platform that allows you earn and cash-out points while you shop for the things you love. With Shaloz, sellers get to spend less time managing their shop and more time on the fun stuff.",
     "headingTexttwo": "Shaloz is an online marketplace, where people come together to sell, buy and collect unique items. We have millions of one-of-a-kind items, so you can find whatever you need. Manage your store on your mobile device.",
     "featureThumb": "/img/features_thumb.png",
     "featureData": [
@@ -14,7 +14,7 @@
         "id": 1,
         "image": "fal fa-shopping-cart",
         "title": "Buy",
-        "text": "Buy products directly from someone who put their heart and soul into making a difference.",
+        "text": "Buy products directly from someone who put their heart and soul into making a difference. Earn points while shopping for the things you love.",
         "styles": { "color": "#4285F4", "fontSize": 35 }
       },
       {
@@ -28,7 +28,7 @@
         "id": 3,
         "image": "fad fa-credit-card-front",
         "title": "Secure Payment",
-        "text": "Pay through the app. We use best-in-class technology to protect your transactions and we are always here for you.",
+        "text": "Pay through the app while earning points. We use best-in-class technology to protect your transactions and we are always here for you.",
         "styles": { "color": "#9933CC", "fontSize": 35 }
       }
     ],
@@ -107,6 +107,11 @@
     "thumbFive": "/img/sc2.png",
     "thumbSix": "/img/sc2.png",
     "serviceData": [
+      {
+        "id": 3,
+        "iconClass": "fad fa-trophy-alt",
+        "text": "Earn and cash-out points while shopping for the things you love. Our loyalty program puts a smile on every dollar you spend"
+      },
       {
         "id": 1,
         "iconClass": "fad fa-user-alt",
@@ -241,62 +246,85 @@
     "faqData": [
       {
         "id": 1,
-        "title": "How to Track Your Shaloz Order?",
-        "content": "You can check the shipping status of your order on Shaloz app. If the seller added tracking information, you can check when your order should arrive. Open up the Shaloz app, Click on your Account icon > Track your package. Pending Tracking number means the seller has either not shipped your package or has not entered a tracking number for your package."
+        "title": "Does Shaloz do a verification check on all stores?",
+        "content": "Yes. Shaloz first priority is security. We verify all stores on the platform."
       },
       {
         "id": 2,
-        "title": "Can I get support from the Author?",
-        "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+        "title": "Does Shaloz review products?",
+        "content": "Yes. We review all products on the platform. When you upload a product, you will see a message on the product saying under-review. When we are done reviewing the product, the message under-review will go away meaning your product has been posted for sale."
       },
       {
         "id": 3,
-        "title": "Do you have a free trail?",
-        "content": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        "title": "How long does product review take?",
+        "content": "It usually takes between thirty to fifty seconds from the time of uploading."
+      },
+      {
+        "id": 4,
+        "title": "How do buyers earn points?",
+        "content": "Our loyalty point system is one of the best out there. As you buy, you earn points on every dollar. Every dollar you spend through the Shaloz platform is equivalent to one point.  One point is equivalent to 0.002 cents."
+      },
+      {
+        "id": 5,
+        "title": "Who pays for Shaloz loyalty program?",
+        "content": "Shaloz pays for the loyalty program. Sellers are not affected by our loyalty program."
+      },
+      {
+        "id": 6,
+        "title": "Does Shaloz issue refunds?",
+        "content": "Shaloz happily accepts refunds on all items sold through the platform."
+      },
+      {
+        "id": 7,
+        "title": "How long does deposit take to post to my account?",
+        "content": "It takes two business days to post all earnings to your bank account. Your first deposit takes seven days, the rest take two business days. Deposits may take three to seven business days on holidays."
+      },
+      {
+        "id": 8,
+        "title": "How does Shaloz promote your product?",
+        "content": "Shaloz offers free promotion on all products within the app. We promote your product within and out of the app through our promotion program."
       }
     ],
     "faqDataTwo": [
       {
         "id": 1,
-        "title": "How can I edit my personal information?",
-        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+        "title": "Are all payments secure through the Shaloz app?",
+        "content": "Shaloz does not share your payment details with sellers. We use best in-class technology to secure your transactions."
       },
       {
         "id": 2,
-        "title": "Contact form isn't working?",
-        "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+        "title": "Does Shaloz offer customer support?",
+        "content": "Yes Shaloz does. Our customer support is open 24/7 for any questions or product related issues you might have. You can reach us at support@shaloz.com."
       },
       {
         "id": 3,
-        "title": "Contact form isn't working?",
-        "content": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
-      }
-    ],
-    "faqDataThree": [
-      {
-        "id": 1,
-        "title": "How to install sApp?",
-        "content": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
-      },
-      {
-        "id": 2,
-        "title": "Can I get support from the Author?",
-        "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
-      },
-      {
-        "id": 3,
-        "title": "Do you have a free trail?",
-        "content": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        "title": "Can I track my products after shipment?",
+        "content": "Yes you can track all products bought through the Shaloz platform. To track your package, click on the person icon at the bottom of the screen > then click on purchase and review. All packages can be tracked as long as they haven't arrived."
       },
       {
         "id": 4,
-        "title": "How can I edit my personal information?",
-        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+        "title": "How can I sell on Shaloz?",
+        "content": "Anyone can sell on Shaloz. It takes one minute to setup your store and start selling. Click on the 'Create your online store button located in the app' to get started."
       },
       {
         "id": 5,
-        "title": "Contact form isn't working?",
-        "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+        "title": "Is there any subscription fee for selling?",
+        "content": "We charge no subscription fee. However, Shaloz charges a 5% transaction fee on every successful purchase."
+      },
+      {
+        "id": 6,
+        "title": "Does Shaloz charge any fee to enlist products?",
+        "content": "We charge no fee to enlist your products."
+      },
+      {
+        "id": 7,
+        "title": "Can sellers issue refunds?",
+        "content": "Yes, All sellers can issue refunds."
+      },
+      {
+        "id": 8,
+        "title": "How do you get paid after fulfilling a package?",
+        "content": "After fulfilling a package, we review the transaction and send all payment to your account within two days of the package arriving."
       }
     ]
   },
