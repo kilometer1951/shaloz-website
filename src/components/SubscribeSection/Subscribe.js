@@ -22,17 +22,10 @@ class Subscribe extends Component {
     if (this.state.inputValue !== "") {
       if (this.validateEmail(this.state.inputValue)) {
         this.setState({
-          inputValue: "",
           subscribeSuc: true,
         });
 
-        setTimeout(() => {
-          this.setState({
-            inputValue: "",
-            subscribeSuc: false,
-          });
-        }, 2000);
-        await fetch("https://quiet-sierra-10781.herokuapp.com/api/subscribe", {
+        await fetch("https://shaloz-server.herokuapp.com/api/subscribe", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -41,6 +34,13 @@ class Subscribe extends Component {
             inputValue: this.state.inputValue,
           }),
         });
+
+        setTimeout(() => {
+          this.setState({
+            inputValue: "",
+            subscribeSuc: false,
+          });
+        }, 2000);
       } else {
         this.setState({
           error: true,
@@ -87,7 +87,8 @@ class Subscribe extends Component {
                   <button
                     type="submit"
                     className="btn btn-lg btn-block"
-                    onClick={this.handleSubscribe}>
+                    onClick={this.handleSubscribe}
+                  >
                     {this.state.initData.submitText}
                   </button>
                 </form>

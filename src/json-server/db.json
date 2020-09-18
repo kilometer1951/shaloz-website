@@ -381,13 +381,8 @@
     "heading": "Have questions? Well, we’ve got some answers.",
     "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
     "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+    "content": "Shaloz is the only platform that allows you earn and cash-out points while you shop for the things you love. With Shaloz, sellers get to spend less time managing their shop and more time on the fun stuff.",
     "iconList": [
-      {
-        "id": 1,
-        "iconClass": "fas fa-home",
-        "text": "Vestibulum nulla libero, convallis, tincidunt suscipit diam, DC 2002"
-      },
       {
         "id": 3,
         "iconClass": "fas fa-envelope",
@@ -397,7 +392,7 @@
   },
   "themeOneFooterSection": {
     "image": "/img/logo_1.png",
-    "text": "The world's most imaginative marketplace. Your store in your pockets.",
+    "text": "The world's most imaginative marketplace. Earn points while you shop. Your store in your pockets.",
     "linkText_1": "Useful Links",
     "linkText_2": "Product Help",
     "linkText_3": "Download",
@@ -405,59 +400,45 @@
       {
         "id": 1,
         "link": "facebook",
-        "iconClass": "fab fa-facebook-f"
+        "iconClass": "fab fa-facebook-f",
+        "url": "https://www.facebook.com/shaloz.buy.sell"
       },
       {
         "id": 2,
         "link": "twitter",
-        "iconClass": "fab fa-twitter"
-      },
-      {
-        "id": 3,
-        "link": "google-plus",
-        "iconClass": "fab fa-google-plus-g"
-      },
-      {
-        "id": 4,
-        "link": "vine",
-        "iconClass": "fab fa-vine"
+        "iconClass": "fab fa-linkedin-in",
+        "url": "https://www.linkedin.com/company/shaloz"
       }
     ],
     "footerList_1": [
       {
         "id": 1,
-        "text": "Home"
+        "text": "Home",
+        "url": "#home"
       },
       {
         "id": 2,
-        "text": "About Us"
+        "text": "About Us",
+        "url": "#features"
       },
 
       {
         "id": 5,
-        "text": "Contact"
+        "text": "Contact",
+        "url": "#contact"
       }
     ],
     "footerList_2": [
       {
         "id": 1,
-        "text": "FAQ"
+        "text": "FAQ",
+        "url": "#faq"
       },
-      {
-        "id": 2,
-        "text": "Privacy Policy"
-      },
+
       {
         "id": 3,
-        "text": "Support"
-      },
-      {
-        "id": 4,
-        "text": "Terms & Conditions"
-      },
-      {
-        "id": 5,
-        "text": "Contact"
+        "text": "Support",
+        "url": "#contact"
       }
     ],
     "footerList_3": [

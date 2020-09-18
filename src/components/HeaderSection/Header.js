@@ -65,11 +65,6 @@ class Header extends Component {
                     FAQ
                   </a>
                 </li>
-                <li className="nav-item">
-                  <a className="nav-link scroll" href="#">
-                    Privacy Policy
-                  </a>
-                </li>
 
                 <li className="nav-item">
                   <a className="nav-link scroll" href="#features">
